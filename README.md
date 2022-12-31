@@ -1,10 +1,8 @@
-Hey, im Phantom (phant8m):
+# Hey, im Phantom (phant8m):
 
-The languages I am learning are 'C#' and 'Python'.
-<3 Canoeing & The ocean
+## languages I am learning:
+  ▸ Rust
+  ▸ C#
 
+## Hope you like my projects!
 
-Still bad at programming, tring to get good!
-
-
-b(￣▽￣)d (Peace)
