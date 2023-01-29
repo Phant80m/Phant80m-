@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hello! My name is Nicholas Samuels.<br><br>I love learning all things software:<br>my favorite projects are:<br>- Dots (my hyprland config)<br>- Public Repo (sileo repository)
+## Hello! My name is Nicholas Samuels.<br><br>
+### I love learning all things software:<br>my favorite projects are:<br>- Dots (my hyprland config)<br>- Public Repo (sileo repository)
 
 
 # 💻 Tech Stack:
