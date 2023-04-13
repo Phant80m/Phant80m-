@@ -19,7 +19,7 @@ My github is dull, but there are a few things I am proud of, like my Dotfiles (c
  <details>
   <summary>Checkmate Shell</summary>
   simple shell written in rust with path support!
-  ![](https://github.com/Phant80m/Phant80m/blob/main/B64D827B-5F9A-49FE-80F4-332C668CBC38.png)
+  <img src="https://github.com/Phant80m/Phant80m/blob/main/B64D827B-5F9A-49FE-80F4-332C668CBC38.png">
  </details>
   
 </details>
