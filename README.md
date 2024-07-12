@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zain, a rust programmer from Melbourne, Australia</h2>
+<h2 align="left">Hi 👋! My name is Zain, a rust programmer from Australia</h2>
 
 ###
 
